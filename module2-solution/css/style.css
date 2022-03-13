@@ -1,0 +1,23 @@
+/* base styles */
+
+
+h1 {
+	text-align: center;
+}
+
+/* media queries here */
+
+/* desktop */
+@media (min-width: 992px) {
+
+};
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 991px){
+
+};
+
+/* phone */
+@media (max-width: 767px){
+
+};
